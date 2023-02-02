@@ -1,5 +1,5 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg)
-<h1 align="center">Hi 👋, I'm Swapnil Solanki</h1>
+<h1 align="center">Hi 👋, I am Swapnil Solanki</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil887&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil887" /> </p>
