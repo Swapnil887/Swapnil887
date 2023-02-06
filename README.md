@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [Swapnil887.github.io](Swapnil887.github.io)
+- 👨‍💻 All of my projects are available at [https://swapnil887.github.io/](https://swapnil887.github.io/)
 
 - 💬 Ask me about **NodeJS**
 
