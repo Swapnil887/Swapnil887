@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **NodeJS**
 
-- 📫 How to reach me **ssinghsolanki686@gmail.com**
+- 📫 How to reach me **https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com&service=mail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
